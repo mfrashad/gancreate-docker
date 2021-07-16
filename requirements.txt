@@ -1,0 +1,12 @@
+fbpca==1.0
+boto3==1.18.0
+requests==2.23
+fastapi==0.66.0
+ninja==1.10.0.post2
+opensimplex==0.3
+moviepy==1.0.3
+TTS==0.1.2
+Pyrebase==3.0.27
+nest-asyncio==1.5.1
+uvicorn==0.14.0
+aiofiles==0.7.0
