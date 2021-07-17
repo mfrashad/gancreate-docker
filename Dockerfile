@@ -33,6 +33,8 @@ COPY requirements.txt .
 
 RUN pip install -r requirements.txt \
 
+RUN apt install ffmpeg
+
 RUN python -c "import nltk; nltk.download('wordnet')"
 
 ENV CUDA_HOME=/usr/local/cuda-10.1

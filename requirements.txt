@@ -10,3 +10,5 @@ Pyrebase==3.0.27
 nest-asyncio==1.5.1
 uvicorn==0.14.0
 aiofiles==0.7.0
+nltk==3.2.5
+git+https://github.com/1adrianb/face-alignment@v1.0.1
